@@ -14,10 +14,10 @@ author: Sankalp Arora
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://www.anudit.in/"
+#url: "https://www.anudit.in/"
 
 # baseurl should be an empty string
-baseurl: ""
+#baseurl: ""
 
 #For my changes
 # use meta-title: for the center heading of the page.
