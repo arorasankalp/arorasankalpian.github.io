@@ -28,26 +28,19 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
-  Recommends: "books"
-  Publications:
+  Blog: "books"
+  Research Interests:
     - A framework of smart homes connected devices using Internet of Things: "http://ieeexplore.ieee.org/document/7918794/"
     - Google Scholar Profile: "https://scholar.google.co.in/citations?user=4p4smu0AAAAJ"
     - ResearchGate Profile: "https://www.researchgate.net/profile/Anudit_Verma"
-  Projects:
-    - GSoC'15: "https://github.com/anuditverma/org.civicrm.osdi"
-    - Airtel Suvidha (Airtel WHack Hackathon): "https://www.linkedin.com/feed/update/activity:6273369896978087936/"
-    - Contract Reader Tool (EY Hackathon): "https://www.moneycontrol.com/news/technology/ey-hackathon-winners-develop-tax-compliance-solutions-with-automation-2439821.html"
-    - Medical Ambience App: "https://github.com/anuditverma/MAA-Avaya-Hackathon"
-    - TypeRacer: "https://github.com/anuditverma/appbase-typeracer"
-    - video.js Overlay Hyperlink: "https://www.npmjs.com/package/videojs-overlay-hyperlink"
   About Me: "aboutme"
-  Resume | CV: "resume/Anudit_Verma.pdf"
+  CV: "CV_Sankalp_Arora_.pdf"
 #  Tags: "tags"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/av.jpg"
-round-avatar: true
+# avatar: "/assets/img/av.jpg"
+# round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter. The logo will have a height of 40px
@@ -71,17 +64,17 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-# email: "someone@example.com"
-  facebook: anuditverma
-  github: anuditverma
+  email: "10sankalp.arora@gmail.com"
+  #facebook: anuditverma
+  github: sankalp-s
   twitter: anuditverma
 # reddit: yourname
-  linkedin: anuditverma
+  linkedin: sankalp-arora-10bbbb9a
 # xing: yourname
 # stackoverflow: 4590331/anudit-verma
 # snapchat: yourname
-  instagram: anuditverma
-  rss: false
+  instagram: _shurui_
+  # rss: false
 # youtube: user/yourname
 # spotify: yourname
 # telephone: +1-(000)-000-0000
@@ -94,19 +87,19 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  github: true
+  email: true
   linkedin: true
-  vk: false
+  instagram: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "www.anudit.in"
+url-pretty: sankalparora.com"
 
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-84991519-1"
+google_analytics: "UA-155288589-1"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -114,7 +107,7 @@ google_analytics: "UA-84991519-1"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "anuditverma"
+# disqus: "anuditverma"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
